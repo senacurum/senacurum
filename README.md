@@ -2,10 +2,10 @@
 #### I just graduated from my computer engineering degree.
 
 
-Skills: Node JS / REACT / JS / HTML / CSS
+Skills: Node JS / PYTHON / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Java,Vue.js,Go
-- 🌱 I’m currently learning PostgreSQL,Express.js,Python 
+- 🌱 I’m currently learning PostgreSQL,Express.js 
 - 💬 Ask me about anything with software development stuff. 
 
 
