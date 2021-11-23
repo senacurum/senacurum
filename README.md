@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Sena and I enjoy learn new things about software development.
-#### I just graduated from my computer engineering degree.
+#### I graduated from my computer engineering degree.
 
 
 Skills: Node JS / PYTHON / REACT / JS / HTML / CSS
