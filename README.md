@@ -4,7 +4,7 @@
 
 Skills: Node JS / PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Java,Vue.js,Go
+- 🔭 I’m currently working on Java
 - 🌱 I’m currently learning PostgreSQL,Express.js 
 - 💬 Ask me about anything with software development stuff. 
 
