@@ -2,7 +2,7 @@
 #### I graduated from my computer engineering degree.
 
 
-Skills: Node JS / PYTHON / REACT / JS / HTML / CSS
+Skills: JAVA / Node JS / PYTHON / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning PostgreSQL,Express.js 
