@@ -9,7 +9,7 @@ Skills: JAVA / SPRING / REACT / JAVASCRIPT / HTML / CSS
 - 💬 Ask me about anything with software development stuff. 
 
 
-- 📫 How to contact me:[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/senanur-curum/)  
+- 📫 How to contact me:[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/senanurcurum/)  
 
 
 
