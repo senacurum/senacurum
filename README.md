@@ -1,5 +1,5 @@
-### Hi there 👋, This is Sena and I enjoy learn new things about software development.
-#### I graduated from my computer engineering degree.
+### Hi there 👋, This is Sena  
+#### I graduated from my computer engineering degree.I enjoy learn new things about software development.
 
 
 Skills: JAVA / SPRING / REACT / JAVASCRIPT / HTML / CSS
